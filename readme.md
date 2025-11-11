@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  SketchFlow is a collaborative drawing tool built with React and Vite, Express, and Socket.IO, designed for creating diagrams, sketches, and illustrations in real-time.
+  Drawkit is a collaborative drawing tool built with React and Vite, Express, and Socket.IO, designed for creating diagrams, sketches, and illustrations in real-time.
 </h4>
 
 <p align="center">
